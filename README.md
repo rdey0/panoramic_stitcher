@@ -62,10 +62,11 @@ Now that both images are in the same perspective, all that's left to do is to al
 <br/>
 
 <div align='center'>
-    <img margin='0' padding='0' width='33%' src='./assets/images/partBCrop1.png'>
-    <img margin='0' padding='0' width='33%' src='./assets/images/partBCrop2.png'>
-    <img margin='0' padding='0' width='33%' src='./assets/images/cropMerge.png'>
-    <p align='center'><b>Image 1 (left), Image 2 (middle), Merged (right)</b></p>
+    <img margin='0' padding='0' width='45%' src='./assets/images/partBCrop1.png'>
+    <img margin='0' padding='0' width='45%' src='./assets/images/partBCrop2.png'>
+    <p align='center'><b>Image 1 (left) and Image 2 (right)</b></p>
+    <img margin='0' padding='0' src='./assets/images/cropMerge.png'>
+    <p align='center'><b>Merged Image</b></p>
 </div>
 
 <br/>
